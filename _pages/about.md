@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Jean-Jacques St. Leroux. I am an undergraduate student attending [The Ohio State University](https://www.osu.edu/) pursuing degrees in theoretical Mathematics and Computer Information Systems (class of '26).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+For years, it has been my dream to earn my Ph.D. to study mathematical optimization & control. My niche research interest is in non-deterministic optimization algorithms incorporated in real-time optimization (RTO) technology. More broadly, I'm interested in stochastic and nonlinear optimization, machine learning, and self-improving algorithms. I'm especially fascinated with the implications my interests have in finance, electrical engineering, and OR.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I've been an avid creative writer for 10+ years, and my works venture across philosophy, poetry, fiction, and cultural experience. Besides that, you can find me playing basketball and tennis, tinkering with computers, admiring art, or in guitar lessons. I love to learn from people's stories and life experiences, and it's my life mission to use that knowledge to give back to my community and the world at large.
