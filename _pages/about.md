@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Aspiring Optimization & Engineering Researcher</b>
+subtitle: <b>aspiring optimization & engineering researcher</b>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>The Ohio State University</p>
-    <p>Columbus, OH 43210</p>
+    <p>the ohio state university</p>
+    <p>columbus, ohio 43210</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
