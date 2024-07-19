@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-my name is jean-jacques st. leroux. i'm an undergraduate at [the ohio state University](https://www.osu.edu/) pursuing degrees in theoretical mathematics and computer information systems (class of 26).
+my name is jean-jacques st. leroux. i'm an undergraduate at [the ohio state university](https://www.osu.edu/) pursuing degrees in theoretical mathematics and computer information systems (class of 26).
 
 for years, it's been my dream to earn my ph.d. to study mathematical optimization & control theory. my niche research interest is in non-deterministic optimization algorithms incorporated in real-time optimization (rto) technology. more broadly, i'm interested in stochastic and nonlinear optimization, machine learning, and self-improving algorithms. i'm motivated by applications in finance, electrical engineering, ML, and OR.
 
