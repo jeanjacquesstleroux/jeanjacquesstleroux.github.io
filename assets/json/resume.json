@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "jean-jacques st. leroux",
+    "name": "jean-jacques adam étienne st. leroux",
     "label": "",
     "image": "",
     "email": "stleroux.1@osu.edu",
@@ -40,7 +40,7 @@
       "endDate": "2024-08-02",
       "summary": "on the risk/quant dev desk, i developed a full-stack linux app using front-end (html/css/ts) and back-end (python) technologies, integrating a c++ optimization algorithm and a machine learning model for dimensionality reduction and clustering. i created data visualizations, debugged with git bash, and conducted mathematical analyses to ensure algorithms' convergence and scalability.",
       "highlights": ["c++", "python", "typescript", "html/css", "linux", "bash"]
-    }
+    },
     {
       "name": "the ohio state university",
       "position": "optimization research apprentice",
@@ -58,6 +58,15 @@
       "endDate": "2023-08-04",
       "summary": "as part of the advancing black pathways program, i interned at the investment bank in nyc under risk management/analytics and securities services. i was taught banking fundamentals and was introduced to quant finance by my manager. i worked through a few data analytics projects in python, excel, and tableau.",
       "highlights": ["python", "excel", "tableau"]
+    },
+    {
+      "name": "the ohio state university",
+      "position": "mathematics research assistant",
+      "url": "https://lilingko.wordpress.com/",
+      "startDate": "2022-05-30",
+      "endDate": "2024-01-01",
+      "summary": "i was a research assistant to dr. liling ko, studying combinatorics in graph theory. i developed code in matlab and python in our attempt to find p(8)-free bipartite graphs, an np-complete problem. our work did not result in a paper, but i learned so much in the year i spent with this incredible teacher!",
+      "highlights": ["matlab", "python"]
     }
   ],
   "volunteer": [
