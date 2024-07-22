@@ -30,7 +30,7 @@
       "startDate": "2024-07-22",
       "endDate": "2024-09-08",
       "summary": "selective program to receive software engineering training from faang & senior-level developers. includes ds&a + interview prep, full-stack application projects, hackathons, and software design principles education",
-      "highlights": ["html", "css", "javascript", "python", "react"]
+      "highlights": ["html/css", "javascript", "python", "react"]
     },
     {
       "name": "capstone investment advisors",
@@ -38,8 +38,8 @@
       "url": "https://www.capstoneco.com/",
       "startDate": "2024-05-22",
       "endDate": "2024-08-02",
-      "summary": "i developed a full-stack linux app using front-end (html/css/ts) and back-end (python) technologies, integrating a c++ optimization algorithm and a machine learning model for dimensionality reduction and clustering. i created data visualizations, debugged with git bash, and conducted mathematical analyses to ensure algorithms' convergence and scalability.",
-      "highlights": ["c++", "python", "typescript", "html", "css", "linux", "bash"]
+      "summary": "on the risk/quant dev desk, i developed a full-stack linux app using front-end (html/css/ts) and back-end (python) technologies, integrating a c++ optimization algorithm and a machine learning model for dimensionality reduction and clustering. i created data visualizations, debugged with git bash, and conducted mathematical analyses to ensure algorithms' convergence and scalability.",
+      "highlights": ["c++", "python", "typescript", "html/css", "linux", "bash"]
     }
     {
       "name": "the ohio state university",
@@ -178,13 +178,18 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "english",
+      "fluency": "fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "french",
+      "fluency": "intermediate fluency",
+      "icon": ""
+    }
+    {
+      "language": "spanish",
+      "fluency": "intermediate fluency",
       "icon": ""
     }
   ],
