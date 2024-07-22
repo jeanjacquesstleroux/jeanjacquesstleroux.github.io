@@ -26,20 +26,20 @@
     {
       "name": "Headstarter AI",
       "position": "Software Engineering Fellow",
-      "url": "https://example.com",
+      "url": "https://headstarter.co/",
       "startDate": "2024-07-22",
       "endDate": "2024-09-08",
-      "summary": "Selective program to receive software engineering training from FAANG engineers. Includes DS&A prep, full-stack development, technical interview prep, and software design principles",
-      "highlights": ["HTML", "CSS", "JavaScript", "Python", "Application Development", "Software Engineering"]
+      "summary": "Selective program to receive software engineering training from FAANG & senior-level developers. Includes DS&A prep, full-stack application projects, technical interview prep, hackathons, and software design principles education",
+      "highlights": ["HTML", "CSS", "JavaScript", "Python"]
     },
     {
       "name": "Capstone Investment Advisors",
       "position": "Quantitative Researcher",
-      "url": "https://headstarter.co/",
-      "startDate": "2024-07-22",
-      "endDate": "1955-09-02",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "url": "https://www.capstoneco.com/",
+      "startDate": "2024-05-22",
+      "endDate": "2024-08-02",
+      "summary": "I developed a full-stack Linux app using front-end (HTML/CSS/TS) and back-end (Python) technologies, integrating a C++ optimization algorithm and a machine learning model for dimensionality reduction and clustering. I also created visualizations, used Git Bash for debugging, and conducted mathematical analyses to ensure algorithms' convergence and scalability.",
+      "highlights": ["C++", "Python", "TypeScript", "HTML", "CSS", "Linux", "Bash"]
     }
   ],
   "volunteer": [
