@@ -24,22 +24,40 @@
   },
   "work": [
     {
-      "name": "Headstarter AI",
-      "position": "Software Engineering Fellow",
+      "name": "headstarter ai",
+      "position": "software engineering fellow",
       "url": "https://headstarter.co/",
       "startDate": "2024-07-22",
       "endDate": "2024-09-08",
-      "summary": "Selective program to receive software engineering training from FAANG & senior-level developers. Includes DS&A prep, full-stack application projects, technical interview prep, hackathons, and software design principles education",
-      "highlights": ["HTML", "CSS", "JavaScript", "Python"]
+      "summary": "selective program to receive software engineering training from faang & senior-level developers. includes ds&a + interview prep, full-stack application projects, hackathons, and software design principles education",
+      "highlights": ["html", "css", "javascript", "python", "react"]
     },
     {
-      "name": "Capstone Investment Advisors",
-      "position": "Quantitative Researcher",
+      "name": "capstone investment advisors",
+      "position": "quantitative research intern",
       "url": "https://www.capstoneco.com/",
       "startDate": "2024-05-22",
       "endDate": "2024-08-02",
-      "summary": "I developed a full-stack Linux app using front-end (HTML/CSS/TS) and back-end (Python) technologies, integrating a C++ optimization algorithm and a machine learning model for dimensionality reduction and clustering. I also created visualizations, used Git Bash for debugging, and conducted mathematical analyses to ensure algorithms' convergence and scalability.",
-      "highlights": ["C++", "Python", "TypeScript", "HTML", "CSS", "Linux", "Bash"]
+      "summary": "i developed a full-stack linux app using front-end (html/css/ts) and back-end (python) technologies, integrating a c++ optimization algorithm and a machine learning model for dimensionality reduction and clustering. i created data visualizations, debugged with git bash, and conducted mathematical analyses to ensure algorithms' convergence and scalability.",
+      "highlights": ["c++", "python", "typescript", "html", "css", "linux", "bash"]
+    }
+    {
+      "name": "the ohio state university",
+      "position": "optimization research apprentice",
+      "url": "https://u.osu.edu/davanloo/",
+      "startDate": "2023-08-25",
+      "endDate": "2024-05-25",
+      "summary": "i shadowed dr. davanloo for the 2023-24 school year in an unpaid setting, where I was taught lp, ip, qp, optimization applications, optimization consulting, and took the graduate-level course ise 7200, advanced nonlinear optimization.",
+      "highlights": ["python", "ibm cplex", "gurobi"]
+    }, 
+    {
+      "name": "j.p. morgan",
+      "position": "summer analyst",
+      "url": "https://www.jpmorgan.com/global",
+      "startDate": "2023-06-25",
+      "endDate": "2023-08-04",
+      "summary": "as part of the advancing black pathways program, i interned at the investment bank in nyc under risk management/analytics and securities services. i was taught banking fundamentals and was introduced to quant finance by my manager. i worked through a few data analytics projects in python, excel, and tableau.",
+      "highlights": ["python", "excel", "tableau"]
     }
   ],
   "volunteer": [
