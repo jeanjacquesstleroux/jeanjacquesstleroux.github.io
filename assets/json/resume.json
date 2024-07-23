@@ -26,15 +26,17 @@
   "work": [
     {
       "name": "headstarter ai",
+      "location": "new york city, new york",
       "position": "software engineering fellow",
       "url": "https://headstarter.co/",
       "startDate": "2024-07-22",
       "endDate": "2024-09-08",
       "summary": "selective program to receive software engineering training from faang & senior-level developers. includes ds&a + interview prep, full-stack application projects, hackathons, and software design principles education",
-      "highlights": ["html/css", "javascript", "python", "react"]
+      "highlights": ["html/css", "javascript (react)", "python"]
     },
     {
       "name": "capstone investment advisors",
+      "location": "new york city, new york",
       "position": "quantitative research intern",
       "url": "https://www.capstoneco.com/",
       "startDate": "2024-05-22",
@@ -44,6 +46,7 @@
     },
     {
       "name": "the ohio state university",
+      "location": "columbus, ohio",
       "position": "optimization research apprentice",
       "url": "https://u.osu.edu/davanloo/",
       "startDate": "2023-08-25",
@@ -53,6 +56,7 @@
     }, 
     {
       "name": "j.p. morgan",
+      "location": "new york city, new york",
       "position": "summer analyst",
       "url": "https://www.jpmorgan.com/global",
       "startDate": "2023-06-25",
@@ -62,12 +66,23 @@
     },
     {
       "name": "the ohio state university",
+      "location": "columbus, ohio",
       "position": "mathematics research assistant",
       "url": "https://lilingko.wordpress.com/",
-      "startDate": "2022-05-30",
+      "startDate": "2022-07-30",
       "endDate": "2024-01-01",
       "summary": "i was a research assistant to dr. liling ko, studying combinatorics in graph theory. i developed code in matlab and python in our attempt to find p(8)-free bipartite graphs, an np-complete problem. our work did not result in a paper, but i learned so much in the year i spent with this incredible teacher!",
       "highlights": ["matlab", "python"]
+    },
+    {
+      "name": "the ohio state university",
+      "location": "columbus, ohio",
+      "position": "computer engineer & research assistant",
+      "url": "https://u.osu.edu/kawakamigroup/",
+      "startDate": "2022-05-30",
+      "endDate": "2022-08-01",
+      "summary": "i was a summer research assistant to the kawakami group, designing GUIs in python to control devices over networks. i configured electronics & circuits, ",
+      "highlights": ["python", "html/css", "powershell"]
     }
   ],
   "volunteer": [
