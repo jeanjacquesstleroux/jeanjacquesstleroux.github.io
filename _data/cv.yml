@@ -1,13 +1,14 @@
 - title: general information
   type: map
   contents:
-    - name: Full Name
+    - name: full name
       value: jean-jacques st. leroux
     - name: pronouns
-    - name: Date of Birth
+      value: he/him/his
+    - name: date of birth
       value: 19th september 2003
-    - name: Languages
-      value: english, french, spanish
+    - name: languages
+      value: english (c2), french (b1), spanish (b1)
 
 - title: education
   type: time_table
