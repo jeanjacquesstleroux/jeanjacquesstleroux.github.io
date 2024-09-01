@@ -25,6 +25,16 @@
   },
   "work": [
     {
+      "name": "insideopt",
+      "location": "remote (dover, de)",
+      "position": "volunteer researcher & software engineer",
+      "url": "https://insideopt.com/",
+      "startDate": "2024-07-30",
+      "endDate": "present",
+      "summary": "working under supervision of dr. meinolf sellman to add exciting features to insideopt seeker",
+      "highlights": ["c++", "python"]
+    },
+    {
       "name": "headstarter ai",
       "location": "new york, new york",
       "position": "software engineering fellow",
@@ -112,6 +122,20 @@
   ],
   "awards": [
     {
+      "title": "pnc scholar",
+      "date": "2024-08-30",
+      "awarder": "pnc financial services",
+      "url": "https://pnc.mediaroom.com/2024-06-05-PNC-Bank-Launches-120,000-Scholarship-Program-to-Expand-Access-to-Higher-Education",
+      "summary": "i was one of 12 students in the nation chosen for a gracious award from pnc."
+    },
+    {
+      "title": "project thrive",
+      "date": "2024-01-30",
+      "awarder": "the ohio state university",
+      "url": "https://fisher.osu.edu/academic-departments/department-finance/programs/thrive",
+      "summary": ""
+    },
+    {
       "title": "118th class of sphinx",
       "date": "2024-04-01",
       "awarder": "the ohio state university",
@@ -127,15 +151,15 @@
     },
     {
       "title": "27th honors cohort",
-      "date": "2024-01-05",
-      "awarder": "jane street",
+      "date": "2023-03-05",
+      "awarder": "the ohio state university",
       "url": "https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/",
       "summary": "one of 20 students from across the nation to participate in an intensive 1-week program at the jane street nyc headquarters to learn about the firm & quant trading. 1 of 2 students from the big ten conference accepted in the conference, and the only big ten student on the quant trading track."
     },
     {
       "title": "25th buckeye leadership fellows cohort",
       "date": "2024-01-05",
-      "awarder": "jane street",
+      "awarder": "the ohio state university",
       "url": "https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/",
       "summary": "one of 20 students from across the nation to participate in an intensive 1-week program at the jane street nyc headquarters to learn about the firm & quant trading. 1 of 2 students from the big ten conference accepted in the conference, and the only big ten student on the quant trading track."
     }
