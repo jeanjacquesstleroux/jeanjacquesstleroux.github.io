@@ -97,11 +97,21 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
+      "organization": "cvxpy",
+      "location": "remote (stanford, ca)",
+      "position": "contributing author",
+      "url": "https://www.cvxpy.org/",
+      "startDate": "2024-08-01",
+      "endDate": "present",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    },
+    {
+      "organization": "informs (ohio state chapter)",
+      "location": "columbus, oh",
+      "position": "vice president",
+      "url": "https://u.osu.edu/informsosu/",
+      "startDate": "2024-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
@@ -153,14 +163,14 @@
       "title": "27th honors cohort",
       "date": "2023-03-05",
       "awarder": "the ohio state university",
-      "url": "https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/",
+      "url": "https://fisher.osu.edu/undergraduate/academics/honors/honors-cohort",
       "summary": "one of 20 students from across the nation to participate in an intensive 1-week program at the jane street nyc headquarters to learn about the firm & quant trading. 1 of 2 students from the big ten conference accepted in the conference, and the only big ten student on the quant trading track."
     },
     {
       "title": "25th buckeye leadership fellows cohort",
       "date": "2024-01-05",
       "awarder": "the ohio state university",
-      "url": "https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/",
+      "url": "https://blf.osu.edu/",
       "summary": "one of 20 students from across the nation to participate in an intensive 1-week program at the jane street nyc headquarters to learn about the firm & quant trading. 1 of 2 students from the big ten conference accepted in the conference, and the only big ten student on the quant trading track."
     }
   ],
@@ -208,27 +218,13 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "research": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "machine learning techniques in two-stage stochastic optimization: a review",
+      "publisher": "informs poster presentation",
+      "releaseDate": "2024-10-20",
+      "url": "https://meetings.informs.org/wordpress/seattle2024/",
+      "summary": "project information/site coming soon!"
     }
   ],
   "skills": [
@@ -275,18 +271,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
