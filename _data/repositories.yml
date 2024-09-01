@@ -1,14 +1,11 @@
 github_users:
   - jeanjacquesstleroux
-  - cvxpy
-
+  
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jeanjacquesstleroux/optimization-ml-ai-projects
+  - jeanjacquesstleroux/Java-Projects
+  - jeanjacquesstleroux/P8_Bipartite_Graphs
+  - jeanjacquesstleroux/R-Projects
+  - jeanjacquesstleroux/Python-Projects
